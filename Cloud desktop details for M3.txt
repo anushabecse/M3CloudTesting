@@ -1,7 +1,0 @@
-Cloud desktop details for M3
-.....................................
-Username	.\administrator
-Password	Pat%1234
-Remote Desktop IP:106.51.78.169:21003
-.........................................
-Putty IP Address:192.168.21.147
